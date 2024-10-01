@@ -1,7 +1,7 @@
 @author Henriklatsch
 # Overview
 
-This folder contains different projects from my time at NTNU. Below is a short explanation of the objectives of each project, target variables, files contained and original project deliverables.
+This folder contains different projects from my time at NTNU. Below is a short explanation of the objectives of each project, project goals, files contained and original project deliverables.
 
 ## Project 1
 
@@ -33,4 +33,4 @@ The object detections were uploaded to a leaderboard server where participants c
 
 The deliverables for the project included a brief video presentation explaining the methods used to achieve the final result, example detections and a short overview of the detection workflow.
 
-The repository contains the brief project report, explaining model training through Google Colab and Roboflow dataset handling, a video example of road damage detections, the presentation keynote and the "inference.ipynb" file briefly explaining the inference algorithm. The project achieved a final grade of B.
+The repository contains the brief project report, explaining model training through Google Colab and Roboflow dataset handling, the presentation keynote and the "inference.ipynb" file briefly explaining the inference algorithm. A video example of the object detection model in use can be viewed here: https://drive.google.com/file/d/1Q-Hu70hQvsA4JZbqHkLa1JjM5by35EuQ/view?usp=drive_link . The project achieved a final grade of B.
