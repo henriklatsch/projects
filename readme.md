@@ -17,7 +17,7 @@ The data used in the project is unfortunately proprietary to Plaace, but the sho
 
 This was the semester project given in the course TDT4259 Anvendt data science. The project objective was given by the company Aneo, who works in power trading and forecasting power consumption using machine learning techniques.
 
-The project task involved forecasting power consumption 5 days into the future, based on power consumption data from the previous year, and a temperature forecast. The dataset supplied for the project contains power consumption for 5 major cities. 
+The project task involved forecasting power consumption 5 days into the future, based on power consumption data from the previous year, and a temperature forecast. The dataset supplied for the project contains power consumption for 6 major cities. 
 
 The "eda.ipynb" file contains a brief exploratory data analysis, used to gain insights into the trends and seasonality of the data. Following the EDA, different machine learning methods were tested in trying to best model the time series, documented in the "modelling.ipynb" file. This file also explores plots comparing each model's performance relative to the baseline predictor.
 
